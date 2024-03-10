@@ -5,9 +5,9 @@ Welcome to my magical coding kingdom! ✨ As a full-stack developer, I'm on a qu
 
 ## 🌐 Tech Stack
 
-- **Frontend**: React.js - I speak the language of browsers fluently.
-- **Frontend Frameworks**: Bootstrap, Tailwind CSS - Sometimes gotta use the spells from others.
-- **Backend**: Django, REST, Node.js, Express - Where server-side magic happens.
+- **Frontend Library**: React.js - I speak the language of browsers fluently.
+- **Frontend Frameworks**: NextJs, Bootstrap, Tailwind CSS - Sometimes gotta use the spells from others.
+- **Backend**: Django, REST, Node.js, Express, NestJs - Where server-side magic happens.
 - **Database**: PostgreSQL, MongoDB - I tame the data dragons!
 - **Languages**: HTML, CSS, JavaScript, Python - My spells are written in these enchanting languages.
 
